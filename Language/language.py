@@ -197,5 +197,3 @@ def compile(t): #returns a list of instructions that the stack machine can run g
        
        
        
-       
-    
